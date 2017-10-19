@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Oficina\\Desktop\\appHortas\\myapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi\\icon.png",
+        "source": "C:\\Users\\Oficina\\Desktop\\appHortas\\myapp\\platforms\\android\\res\\mipmap-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Oficina\\myapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi\\icon.png",
+        "source": "C:\\Users\\Oficina\\myapp\\platforms\\android\\res\\mipmap-ldpi\\icon.png"
+    }
+]
